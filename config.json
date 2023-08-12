@@ -1,5 +1,5 @@
 {
   "port" : "3000",
-  "channelAccessToken": "YOUR_CHANNEL_ACCESS_TOKEN",
-  "channelSecret": "YOUR_CHANNEL_SECRET"
+  "channelAccessToken": "iissAeDlTBDBVIsBw5ODzuc8XJ2+pch+yo7BwFGQzokJOv6/g5tL/EgnloJDW+DsnUA1HDWm8hL9fODcbGtpvk2hymyqvS3EhEFsj3LM5hOKev1Z0pUxK5JC8TNDJKoE98z65pkdhFolhFi7bvNzGAdB04t89/1O/w1cDnyilFU=",
+  "channelSecret": "f643a7f8d4722223877c1d5b9df6f4b1"
 }
